@@ -119,7 +119,8 @@ var version = {
   major: 'NG_VERSION_MAJOR',
   minor: 'NG_VERSION_MINOR',
   dot: 'NG_VERSION_DOT',
-  codeName: '"NG_VERSION_CODENAME"'
+  codeName: '"NG_VERSION_CODENAME"',
+  vendor: 'XLTS.dev'
 };
 
 
